@@ -1,0 +1,11 @@
+@charset "UTF-8";
+* {
+  box-sizing: border-box; }
+
+@font-face {
+  font-family: "Quicksand";
+  src: url(src/fonts/Quicksand-Regular.svg) format("svg"), url(src/fonts/Quicksand-Regular.woff) format("woff"), url(src/fonts/Quicksand-Regular.ttf) format("truetype");
+  /* все современные браузеры */ }
+
+body {
+  font-family: 'Quicksand'; }

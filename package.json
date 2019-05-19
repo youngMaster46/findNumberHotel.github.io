@@ -1,0 +1,29 @@
+{
+  "name": "searchhotel",
+  "version": "1.0.0",
+  "description": "\"# findNumberHotel.io\"",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-pug": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.5",
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.5",
+    "gulp-sass": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youngMaster46/findNumberHotel.io.git"
+  },
+  "author": "max",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youngMaster46/findNumberHotel.io/issues"
+  },
+  "homepage": "https://github.com/youngMaster46/findNumberHotel.io#readme"
+}

@@ -1,11 +1,9 @@
-@charset "UTF-8";
+
 * {
   box-sizing: border-box; }
 
-@font-face {
-  font-family: "Quicksand";
-  src: url(src/fonts/Quicksand-Regular.svg) format("svg"), url(src/fonts/Quicksand-Regular.woff) format("woff"), url(src/fonts/Quicksand-Regular.ttf) format("truetype");
-  /* все современные браузеры */ }
-
 body {
-  font-family: 'Quicksand'; }
+  background: black; }
+
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImZvb3Rlci9mb290ZXIuc2FzcyIsImhlYWRlci9oZWFkZXIuc2FzcyIsInNlY3Rpb24vc2VjdGlvbi5zYXNzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0FDQUEsQ0FBQyxDQUFDO0VBQ0QsVUFBVSxFQUFFLFVBQVUsR0FBRzs7QUFFMUIsSUFBSSxDQUFDO0VBQ0osVUFBVSxFQUFFLEtBQUssR0FBRzs7QUNKckIiLCJmaWxlIjoic3R5bGVzLmNzcyIsInNvdXJjZXNDb250ZW50IjpbIiIsIioge1xuXHRib3gtc2l6aW5nOiBib3JkZXItYm94OyB9XG5cbmJvZHkge1xuXHRiYWNrZ3JvdW5kOiBibGFjazsgfVxuIiwiIl19 */

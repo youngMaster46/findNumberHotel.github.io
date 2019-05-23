@@ -1,0 +1,9 @@
+.type-color {
+  font-size: 19px;
+  line-height: 29px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  width: 419px;
+  word-wrap: break-word;
+  position: relative; }
